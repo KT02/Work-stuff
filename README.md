@@ -1,2 +1,2 @@
 # Work-stuff
-first repo
+school work things
